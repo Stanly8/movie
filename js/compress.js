@@ -30,8 +30,9 @@
 /*
 弹出层
 */
+/*
 document.writeln("<div id=\'myModal\'class=\'reveal-modal\'><b style=\'font-size:20px\'>公告</b><br><p style=\'font-size:14px\'>为防止主域名被封,本站启用备用域名 www.btbtdy.net 若主域名长时间无法正常打开请使用备用域名.</p><a class=\'close-reveal-modal\'>&#215;</a></div>");
-
+*/
 
             //设置cookie
             function SetCookie(name, value, path) {
